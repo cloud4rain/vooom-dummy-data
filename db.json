@@ -2,47 +2,47 @@
   "id": 1,
   "products": [
     {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 3
-    },
-    {
-      "title": "Caroma Coffee Creamer",
+      "title": "Seelaz French Coffee With Coffee creamer",
       "quantity": 4
     },
     {
-      "title": "Nescafe Gold Decaf Coffee",
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 2
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 5
     }
   ],
   "payment": "COD",
-  "total": 431,
-  "status": "Delivery",
-  "created_at": "2019-01-18T12:58:01Z"
+  "total": 380,
+  "status": "Completed",
+  "created_at": "2019-01-07T10:44:25Z"
 }, {
   "id": 2,
   "products": [
     {
       "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
+      "quantity": 2
     },
     {
       "title": "Caroma Coffee Creamer",
       "quantity": 3
+    },
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 5
     }
   ],
-  "payment": "COD",
-  "total": 243,
-  "status": "Completed",
-  "created_at": "2018-12-11T22:45:12Z"
+  "payment": "Credit Card",
+  "total": 181,
+  "status": "In Progress",
+  "created_at": "2018-09-15T09:14:17Z"
 }, {
   "id": 3,
   "products": [
     {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "title": "Caroma Coffee Creamer",
       "quantity": 2
     },
     {
@@ -51,103 +51,123 @@
     },
     {
       "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 4
+      "quantity": 2
     }
   ],
   "payment": "Credit Card",
-  "total": 375,
-  "status": "Completed",
-  "created_at": "2018-04-16T21:43:07Z"
+  "total": 199,
+  "status": "In Progress",
+  "created_at": "2018-06-24T06:02:38Z"
 }, {
   "id": 4,
   "products": [
     {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 1
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 5
-    },
-    {
       "title": "Caroma Coffee Creamer",
+      "quantity": 4
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 2
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 3
     }
   ],
-  "payment": "COD",
-  "total": 27,
-  "status": "Completed",
-  "created_at": "2018-11-06T06:11:42Z"
+  "payment": "Credit Card",
+  "total": 371,
+  "status": "Delivery",
+  "created_at": "2018-07-15T10:24:25Z"
 }, {
   "id": 5,
   "products": [
     {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 3
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 1
+    },
+    {
       "title": "Nescafe Gold Decaf Coffee",
       "quantity": 2
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 5
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 3
     }
   ],
-  "payment": "COD",
-  "total": 97,
-  "status": "Delivery",
-  "created_at": "2018-11-24T08:25:29Z"
+  "payment": "Credit Card",
+  "total": 62,
+  "status": "In Progress",
+  "created_at": "2018-04-18T18:19:07Z"
 }, {
   "id": 6,
   "products": [
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 3
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 5
     },
     {
       "title": "Seelaz French Coffee With Coffee creamer",
       "quantity": 2
     },
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
+      "title": "Nescafe Gold Decaf Coffee",
       "quantity": 1
     }
   ],
   "payment": "COD",
-  "total": 57,
-  "status": "Delivery",
-  "created_at": "2018-03-02T02:56:51Z"
+  "total": 495,
+  "status": "Completed",
+  "created_at": "2018-08-20T22:10:43Z"
 }, {
   "id": 7,
   "products": [
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
+      "title": "Caroma Coffee Creamer",
+      "quantity": 3
+    },
+    {
+      "title": "Caroma Coffee Creamer",
       "quantity": 5
     },
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 3
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
+      "title": "Caroma Coffee Creamer",
+      "quantity": 5
     }
   ],
   "payment": "COD",
-  "total": 13,
-  "status": "In Progress",
-  "created_at": "2018-06-21T16:47:27Z"
+  "total": 383,
+  "status": "Delivery",
+  "created_at": "2018-08-14T15:45:35Z"
 }, {
   "id": 8,
   "products": [
     {
-      "title": "Caroma Coffee Creamer",
+      "title": "Nescafe Gold Decaf Coffee",
       "quantity": 4
     },
     {
-      "title": "Caroma Coffee Creamer",
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 5
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 4
+    }
+  ],
+  "payment": "Credit Card",
+  "total": 434,
+  "status": "Completed",
+  "created_at": "2018-11-09T11:20:19Z"
+}, {
+  "id": 9,
+  "products": [
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 4
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 5
     },
     {
       "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
@@ -155,139 +175,79 @@
     }
   ],
   "payment": "Credit Card",
-  "total": 91,
-  "status": "Delivery",
-  "created_at": "2018-02-03T18:29:33Z"
-}, {
-  "id": 9,
-  "products": [
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 4
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 3
-    }
-  ],
-  "payment": "COD",
-  "total": 435,
-  "status": "Completed",
-  "created_at": "2018-09-24T19:03:34Z"
+  "total": 12,
+  "status": "In Progress",
+  "created_at": "2018-12-22T06:53:06Z"
 }, {
   "id": 10,
   "products": [
     {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 5
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 5
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 2
+    }
+  ],
+  "payment": "Credit Card",
+  "total": 492,
+  "status": "Completed",
+  "created_at": "2018-10-13T15:44:37Z"
+}, {
+  "id": 11,
+  "products": [
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 3
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 2
+    },
+    {
       "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 4
+      "quantity": 5
+    }
+  ],
+  "payment": "COD",
+  "total": 269,
+  "status": "In Progress",
+  "created_at": "2018-04-27T17:39:31Z"
+}, {
+  "id": 12,
+  "products": [
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 3
     },
     {
       "title": "Nescafe Gold Decaf Coffee",
       "quantity": 1
     },
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 4
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 2
     }
   ],
   "payment": "Credit Card",
-  "total": 339,
+  "total": 41,
   "status": "In Progress",
-  "created_at": "2018-03-12T06:49:59Z"
-}, {
-  "id": 11,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 3
-    }
-  ],
-  "payment": "COD",
-  "total": 108,
-  "status": "Delivery",
-  "created_at": "2018-07-29T23:46:31Z"
-}, {
-  "id": 12,
-  "products": [
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 1
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 5
-    }
-  ],
-  "payment": "COD",
-  "total": 282,
-  "status": "Delivery",
-  "created_at": "2018-12-22T10:04:08Z"
+  "created_at": "2018-05-18T17:03:18Z"
 }, {
   "id": 13,
   "products": [
     {
       "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    }
-  ],
-  "payment": "COD",
-  "total": 173,
-  "status": "Completed",
-  "created_at": "2018-02-16T23:43:49Z"
-}, {
-  "id": 14,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 5
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 2
     },
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 3
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 109,
-  "status": "Completed",
-  "created_at": "2018-01-18T14:12:38Z"
-}, {
-  "id": 15,
-  "products": [
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 3
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 3
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 4
     },
     {
       "title": "Caroma Coffee Creamer",
@@ -295,9 +255,49 @@
     }
   ],
   "payment": "COD",
-  "total": 64,
+  "total": 149,
   "status": "Completed",
-  "created_at": "2018-11-26T17:08:11Z"
+  "created_at": "2018-04-11T16:33:29Z"
+}, {
+  "id": 14,
+  "products": [
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 1
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 5
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 5
+    }
+  ],
+  "payment": "COD",
+  "total": 363,
+  "status": "Delivery",
+  "created_at": "2018-10-25T10:32:47Z"
+}, {
+  "id": 15,
+  "products": [
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 4
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 2
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 3
+    }
+  ],
+  "payment": "Credit Card",
+  "total": 106,
+  "status": "In Progress",
+  "created_at": "2018-12-18T02:10:50Z"
 }, {
   "id": 16,
   "products": [
@@ -306,158 +306,158 @@
       "quantity": 3
     },
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 2
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 3
     },
     {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 2
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 4
     }
   ],
-  "payment": "Credit Card",
-  "total": 172,
+  "payment": "COD",
+  "total": 312,
   "status": "Completed",
-  "created_at": "2018-12-10T23:24:52Z"
+  "created_at": "2019-01-26T00:34:10Z"
 }, {
   "id": 17,
   "products": [
     {
       "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 2
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 382,
-  "status": "Delivery",
-  "created_at": "2018-03-21T16:30:44Z"
-}, {
-  "id": 18,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 3
+      "quantity": 1
     },
     {
       "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 1
     },
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 4
     }
   ],
   "payment": "COD",
-  "total": 177,
+  "total": 257,
+  "status": "Delivery",
+  "created_at": "2018-07-30T14:26:44Z"
+}, {
+  "id": 18,
+  "products": [
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 3
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 3
+    },
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 3
+    }
+  ],
+  "payment": "COD",
+  "total": 468,
   "status": "In Progress",
-  "created_at": "2019-01-23T10:01:05Z"
+  "created_at": "2018-02-27T21:02:02Z"
 }, {
   "id": 19,
   "products": [
     {
       "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
+      "quantity": 2
     },
     {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 2
     },
     {
       "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
+      "quantity": 4
     }
   ],
-  "payment": "COD",
-  "total": 328,
+  "payment": "Credit Card",
+  "total": 229,
   "status": "In Progress",
-  "created_at": "2018-12-20T03:36:58Z"
+  "created_at": "2019-01-17T17:57:49Z"
 }, {
   "id": 20,
   "products": [
     {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 1
     },
     {
       "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
+      "quantity": 3
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 3
     }
   ],
   "payment": "COD",
-  "total": 201,
-  "status": "Completed",
-  "created_at": "2018-11-08T06:20:23Z"
+  "total": 331,
+  "status": "Delivery",
+  "created_at": "2018-06-17T00:13:41Z"
 }, {
   "id": 21,
   "products": [
     {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 5
-    },
-    {
       "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 5
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 1
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 204,
-  "status": "Completed",
-  "created_at": "2018-09-04T22:15:08Z"
-}, {
-  "id": 22,
-  "products": [
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 425,
-  "status": "Delivery",
-  "created_at": "2018-05-22T07:55:29Z"
-}, {
-  "id": 23,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
       "quantity": 2
     },
     {
       "title": "Caroma Coffee Creamer",
-      "quantity": 4
+      "quantity": 3
     },
     {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 1
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 2
     }
   ],
   "payment": "COD",
-  "total": 22,
+  "total": 264,
   "status": "Delivery",
-  "created_at": "2018-02-28T14:26:14Z"
+  "created_at": "2018-03-24T19:45:31Z"
+}, {
+  "id": 22,
+  "products": [
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 1
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 5
+    },
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 3
+    }
+  ],
+  "payment": "COD",
+  "total": 108,
+  "status": "Completed",
+  "created_at": "2018-04-09T17:11:56Z"
+}, {
+  "id": 23,
+  "products": [
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 3
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 1
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 2
+    }
+  ],
+  "payment": "COD",
+  "total": 15,
+  "status": "Completed",
+  "created_at": "2018-06-25T03:46:52Z"
 }, {
   "id": 24,
   "products": [
@@ -466,536 +466,136 @@
       "quantity": 4
     },
     {
-      "title": "Nescafe Gold Decaf Coffee",
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 4
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 482,
-  "status": "Completed",
-  "created_at": "2018-07-17T07:22:07Z"
-}, {
-  "id": 25,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 3
     },
     {
       "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 1
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
     }
   ],
   "payment": "COD",
-  "total": 125,
-  "status": "Completed",
-  "created_at": "2018-09-08T06:56:00Z"
+  "total": 88,
+  "status": "Delivery",
+  "created_at": "2018-09-22T07:39:52Z"
+}, {
+  "id": 25,
+  "products": [
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 4
+    },
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 1
+    },
+    {
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 1
+    }
+  ],
+  "payment": "Credit Card",
+  "total": 349,
+  "status": "In Progress",
+  "created_at": "2018-10-22T19:14:28Z"
 }, {
   "id": 26,
   "products": [
     {
       "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 4
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 4
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
       "quantity": 5
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 4
+    },
+    {
+      "title": "Nescafe Gold Decaf Coffee",
+      "quantity": 4
     }
   ],
   "payment": "COD",
-  "total": 484,
-  "status": "In Progress",
-  "created_at": "2018-07-01T17:09:13Z"
+  "total": 131,
+  "status": "Delivery",
+  "created_at": "2019-01-26T02:56:00Z"
 }, {
   "id": 27,
   "products": [
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 2
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 1
     },
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 3
+      "title": "Caroma Coffee Creamer",
+      "quantity": 1
     },
     {
       "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 3
+      "quantity": 1
     }
   ],
   "payment": "COD",
-  "total": 369,
+  "total": 342,
   "status": "Completed",
-  "created_at": "2018-07-05T22:12:42Z"
+  "created_at": "2018-03-28T10:05:40Z"
 }, {
   "id": 28,
   "products": [
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 5
-    },
-    {
       "title": "Caroma Coffee Creamer",
       "quantity": 4
     },
     {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
+      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "quantity": 2
+    },
+    {
+      "title": "Caroma Coffee Creamer",
+      "quantity": 3
     }
   ],
   "payment": "COD",
-  "total": 341,
-  "status": "Delivery",
-  "created_at": "2018-01-28T12:49:12Z"
+  "total": 79,
+  "status": "In Progress",
+  "created_at": "2018-11-17T22:45:05Z"
 }, {
   "id": 29,
   "products": [
     {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 3
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "title": "Caroma Coffee Creamer",
       "quantity": 4
     },
     {
       "title": "Caroma Coffee Creamer",
-      "quantity": 1
+      "quantity": 2
+    },
+    {
+      "title": "Seelaz French Coffee With Coffee creamer",
+      "quantity": 3
     }
   ],
   "payment": "COD",
-  "total": 135,
-  "status": "Delivery",
-  "created_at": "2018-08-10T00:25:28Z"
+  "total": 243,
+  "status": "Completed",
+  "created_at": "2018-07-12T16:37:14Z"
 }, {
   "id": 30,
   "products": [
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 3
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 5
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 5
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 471,
-  "status": "Completed",
-  "created_at": "2018-11-08T09:12:36Z"
-}, {
-  "id": 31,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 4
-    }
-  ],
-  "payment": "COD",
-  "total": 90,
-  "status": "In Progress",
-  "created_at": "2018-08-26T08:30:03Z"
-}, {
-  "id": 32,
-  "products": [
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 2
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 15,
-  "status": "In Progress",
-  "created_at": "2018-01-04T23:57:23Z"
-}, {
-  "id": 33,
-  "products": [
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
+      "title": "Seelaz French Coffee With Coffee creamer",
       "quantity": 1
     },
     {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 3
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 383,
-  "status": "Delivery",
-  "created_at": "2018-09-07T15:51:03Z"
-}, {
-  "id": 34,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 2
-    },
-    {
       "title": "Seelaz French Coffee With Coffee creamer",
       "quantity": 2
-    }
-  ],
-  "payment": "COD",
-  "total": 193,
-  "status": "Completed",
-  "created_at": "2018-03-14T13:21:57Z"
-}, {
-  "id": 35,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 3
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 5
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 384,
-  "status": "Completed",
-  "created_at": "2018-03-09T09:52:01Z"
-}, {
-  "id": 36,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
     },
     {
       "title": "Caroma Coffee Creamer",
-      "quantity": 3
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 4
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 24,
-  "status": "Completed",
-  "created_at": "2018-08-03T18:41:49Z"
-}, {
-  "id": 37,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
       "quantity": 1
     }
   ],
   "payment": "COD",
-  "total": 235,
-  "status": "In Progress",
-  "created_at": "2018-12-22T05:52:05Z"
-}, {
-  "id": 38,
-  "products": [
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 2
-    }
-  ],
-  "payment": "COD",
-  "total": 283,
-  "status": "In Progress",
-  "created_at": "2018-07-04T19:48:00Z"
-}, {
-  "id": 39,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 2
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 2
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 37,
-  "status": "In Progress",
-  "created_at": "2018-04-28T00:56:52Z"
-}, {
-  "id": 40,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 5
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 2
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 159,
-  "status": "In Progress",
-  "created_at": "2018-06-08T22:37:29Z"
-}, {
-  "id": 41,
-  "products": [
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 1
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 137,
-  "status": "Delivery",
-  "created_at": "2018-10-27T14:28:13Z"
-}, {
-  "id": 42,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 5
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 1
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 195,
-  "status": "Delivery",
-  "created_at": "2018-02-11T18:15:41Z"
-}, {
-  "id": 43,
-  "products": [
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 5
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 4
-    }
-  ],
-  "payment": "COD",
-  "total": 86,
-  "status": "In Progress",
-  "created_at": "2018-05-12T05:36:38Z"
-}, {
-  "id": 44,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 5
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    }
-  ],
-  "payment": "COD",
-  "total": 177,
-  "status": "Delivery",
-  "created_at": "2019-01-20T03:52:18Z"
-}, {
-  "id": 45,
-  "products": [
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 1
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 138,
-  "status": "Delivery",
-  "created_at": "2019-01-11T20:22:41Z"
-}, {
-  "id": 46,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
-    },
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 2
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 323,
+  "total": 461,
   "status": "Completed",
-  "created_at": "2018-06-19T06:23:12Z"
-}, {
-  "id": 47,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 4
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 214,
-  "status": "Completed",
-  "created_at": "2018-02-07T23:47:59Z"
-}, {
-  "id": 48,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 3
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 5
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 1
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 414,
-  "status": "Completed",
-  "created_at": "2019-01-13T10:24:12Z"
-}, {
-  "id": 49,
-  "products": [
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 2
-    },
-    {
-      "title": "Abu Auf Turkish Mehawej Coffee Medium Roast",
-      "quantity": 4
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 37,
-  "status": "Completed",
-  "created_at": "2018-04-24T21:43:18Z"
-}, {
-  "id": 50,
-  "products": [
-    {
-      "title": "Nescafe Gold Decaf Coffee",
-      "quantity": 1
-    },
-    {
-      "title": "Caroma Coffee Creamer",
-      "quantity": 4
-    },
-    {
-      "title": "Seelaz French Coffee With Coffee creamer",
-      "quantity": 1
-    }
-  ],
-  "payment": "Credit Card",
-  "total": 443,
-  "status": "Completed",
-  "created_at": "2018-07-05T01:17:48Z"
+  "created_at": "2018-03-17T01:11:22Z"
 }]
